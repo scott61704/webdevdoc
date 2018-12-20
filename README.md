@@ -11,3 +11,6 @@
 
 ### Go Language
 1. [The Go Programming Language](https://golang.org/)
+
+### Tutorials
+1. [Hugo - Mike Dane (formerly GiraffeAcademy.com)](https://www.mikedane.com/static-site-generators/hugo/)
