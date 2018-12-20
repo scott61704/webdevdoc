@@ -15,3 +15,6 @@
 ### Hugo
 1. [Hugo website](https://gohugo.io/)
 2. [Hugo - Mike Dane (formerly GiraffeAcademy.com)](https://www.mikedane.com/static-site-generators/hugo/)
+
+### Misc
+1. [SSGs for JAMstack](https://www.staticgen.com/)
