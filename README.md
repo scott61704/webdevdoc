@@ -18,3 +18,4 @@
 
 ### Misc
 1. [SSGs for JAMstack](https://www.staticgen.com/)
+2. [Shortened query selectors](https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Code_snippets/QuerySelector)
