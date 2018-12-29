@@ -17,7 +17,7 @@
 2. [Hugo - Mike Dane (formerly GiraffeAcademy.com)](https://www.mikedane.com/static-site-generators/hugo/)
 
 ### Taxonomies
-1. [5 steps to create precise keywords for your digital pictures] (https://www.organizepictures.com/2008/04/create-precise-keywords-for-digital-assets)
+1. [5 steps to create precise keywords for your digital pictures](https://www.organizepictures.com/2008/04/create-precise-keywords-for-digital-assets)
 2. [Taxonomies: Organizing Your Content](https://dotcms.com/docs/latest/taxonomies-organizing-your-content)
 3. [Organizing Your Content: Ditching Folders in Favor of Content Tagging](https://techwhirl.com/organizing-content-by-content-tagging/)
 
