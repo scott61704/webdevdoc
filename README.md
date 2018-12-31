@@ -25,3 +25,4 @@
 1. [SSGs for JAMstack](https://www.staticgen.com/)
 2. [Shortened query selectors](https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Code_snippets/QuerySelector)
 3. [Redis cache at Instagram](https://instagram-engineering.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c)
+4. [Redis video](https://www.youtube.com/watch?v=Hbt56gFj998)
