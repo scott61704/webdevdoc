@@ -1,7 +1,7 @@
 # webdevdoc
 ## Documentation about developing websites
 ### Topics
-1. [Markdown] (/markdown.md)
+1. [Markdown](markdown.md)
 
 ### Go Language
 1. [The Go Programming Language](https://golang.org/)
