@@ -2,6 +2,7 @@
 ## Documentation about developing websites
 ### Topics
 1. [Markdown](markdown.md)
+2. [CSS Layout Techniques](css-layout-techniques.md)
 
 ### Go Language
 1. [The Go Programming Language](https://golang.org/)
